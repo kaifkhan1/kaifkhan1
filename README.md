@@ -8,7 +8,7 @@
 - Open Source Enthusiast. (A Beginner) ✌ 
 
 ### Technology
-<p align="left">
+<p float="left">
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width="45" height="45"/> </a>
 
